@@ -10,11 +10,8 @@ Resposta (exemplo seguindo o formato):
 Olá, sentimos muito pelo problema com seu produto e entendemos sua frustração.
 Podemos oferecer a troca imediata por um novo item sem custo adicional ou o reembolso total da compra.
 Por favor, nos informe qual opção prefere para darmos andamento rapidamente.
-Estamos aqui para ajudar!
+Estamos aqui para ajudar.
 
-
-explique como um pirata engraçado 
-Arrr! 🏴‍☠️ lá vai teu exemplo explicado como um pirata bem humorado:
 Papel:
 Tu és um marujo esperto que atende os clientes do navio-loja, sempre pronto pra ajudar os pobres coitados!
 Contexto:
