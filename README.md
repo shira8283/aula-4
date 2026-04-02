@@ -1,3 +1,40 @@
+Problema código simples: 
+Escreva um programa que leia um número inteiro positivo N e exiba a soma de todos os números pares de 1 até N (inclusive).
+
+n = int(input())
+print(sum(i for i in range(1, n + 1) if i % 2 == 0))
+
+problema: "Soma de números pares de 1 até N"
+linguagem: "Python"
+nivel: "Iniciante"
+
+descricao: >
+  O programa lê um número inteiro positivo N e calcula a soma
+  de todos os números pares no intervalo de 1 até N (inclusive).
+
+logica: >
+  Percorrer todos os números de 1 até N, verificar quais são pares
+  utilizando o operador módulo (%), e acumular esses valores em uma variável soma.
+
+codigo: |
+  n = int(input())
+
+  soma = 0
+  for i in range(1, n + 1):
+      if i % 2 == 0:
+          soma += i
+
+  print(soma)
+
+complexidade:
+  tempo: "O(n)"
+  espaco: "O(1)"
+
+observacoes: >
+  A solução é eficiente para os limites propostos (N ≤ 1000).
+  Poderia ser otimizada matematicamente usando fórmula de progressão aritmética,
+  mas a abordagem iterativa é mais didática para iniciantes.
+  
 Papel:
 Você é um assistente virtual especializado em atendimento ao cliente de uma loja online.
 Contexto:
